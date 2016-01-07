@@ -19,7 +19,7 @@ import com.example.jh.commenutils.R;
 public class EditTextWithClearButton extends EditText implements View.OnFocusChangeListener,TextWatcher {
    Drawable clearDrawable;
    boolean  hasFocus;
-//
+
 
     public EditTextWithClearButton(Context context, AttributeSet attrs, int defStyleAttr) {
         super(context, attrs, defStyleAttr);

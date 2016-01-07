@@ -15,7 +15,7 @@ import android.widget.ImageView;
 import android.widget.TextView;
 
 import com.nostra13.universalimageloader.utils.L;
-
+//杨大侠是傻逼！
 
 public class AnmtionActivity extends ActionBarActivity {
 ImageView iv_imageview;
